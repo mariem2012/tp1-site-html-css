@@ -1,24 +1,12 @@
-Police d'ecriture Montserrat
-https://fonts.google.com/specimen/Montserrat?query=monts
+# Projet Ventes de Plantes
+***Ce projet est une application web de vente de plantes, conçue pour offrir une expérience conviviale et pratique aux amateurs de jardinage.***
+  ***Affiche une variété de plantes disponibles à l'achat.***
+  ***Permet aux utilisateurs de rechercher des plantes par nom, catégorie, ou caractéristiques spécifiques.***
 
-Police d'ecriture Abril
-https://fonts.google.com/specimen/Abril+Fatface?query=abril&sidebar.open&selection.family=Abril+Fatface
+   ***Affiche un résumé clair des articles sélectionnés et de leur coût total.***
 
-Couleurs utilisées:
+## Technologies Utilisées
+ **Frontend**: HTML, CSS.
 
-blanc: **#fff**
-blanc transparent: **#FFFFFFDF**
-vert clair: **#ADD981**
-
-Flaticon utilisés:
-
-icon scroll vers le bas : **fas-fa-angle-down**
-icon de magasin : **fas fa-store**
-icon retrait sans contact : **fas fa-people-carry**
-icon livraison : **faq fa-truck**
-
-Lien integration flaticon : 
-https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css
-
-
-
+# Mes diffucultés 
+***importion des polices pour la premiére section et l'affichage de l'icon Scroll.***
